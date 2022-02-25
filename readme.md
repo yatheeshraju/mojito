@@ -1,5 +1,5 @@
 # Mojito 🍸 
-#### A simple API mocking server
+#### A simple API response mocking server
 
 ### Get Started 
 
@@ -12,3 +12,6 @@
 1. Create a new file in the ```api``` 📁 folder with the name of your request .
 2. Paste the sample api response you need in the file  .
 3. Save it and see the magic 🪄.
+
+
+> :warning:  Do not use in production environment.
