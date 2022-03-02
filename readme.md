@@ -1,3 +1,6 @@
+![Mojito Cover Image](Mojito.png)
+
+
 # Mojito 🍸 
 #### A simple API response mocking server
 
